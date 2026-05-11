@@ -1,0 +1,8 @@
+# AWS S3-Lambda Data Pipeline
+This project is an automated system that triggers an AWS Lambda function whenever a file is uploaded to an S3 bucket.
+
+## Tech Stack
+- **AWS S3**: For file storage.
+- **AWS Lambda**: For serverless processing.
+- **Python**: For logic.
+- **GitHub**: For version control.
